@@ -1,0 +1,14 @@
+## Interface: 70000
+## Title: |cff00ff00VoIP Announcer|r
+## Version: |cffFF45001.0.6|r
+## Author: |cffDA70D6LownIgnitus|r Mihkael@US-Alexstrasza
+## X-Date: 30/3/2016
+## Notes: Chat announcer for VoIP. Either Guild or Personal.
+## SavedVariablesPerCharacter: VoIPsave
+## X-Curse-Packaged-Version: v1.0.4
+## X-Curse-Project-Name: VoIP Announcer
+## X-Curse-Project-ID: voip-announcer
+## X-Curse-Repository-ID: wow/voip-announcer/mainline
+
+VoIPAnnouncer.lua
+Localization.enUS.lua
