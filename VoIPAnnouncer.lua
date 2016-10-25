@@ -1,4 +1,4 @@
--- VoIP Announcer v 1.0.6
+-- VoIP Announcer v 1.0.7
 
 VoIPsave = VoIPsave or "Test VoIP Info"
 local CF = CreateFrame
