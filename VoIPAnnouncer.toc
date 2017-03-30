@@ -1,8 +1,8 @@
-## Interface: 70100
+## Interface: 70200
 ## Title: |cff00ff00VoIP Announcer|r
-## Version: |cffFF45001.0.7|r
+## Version: |cffFF45001.0.8|r
 ## Author: |cffDA70D6LownIgnitus|r Mihkael@US-Alexstrasza
-## X-Date: 30/3/2016
+## X-Date: 30/03/2017
 ## Notes: Chat announcer for VoIP. Either Guild or Personal.
 ## SavedVariablesPerCharacter: VoIPsave
 
