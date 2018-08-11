@@ -1,6 +1,6 @@
-## Interface: 70300
+## Interface: 80000
 ## Title: |cff00ff00VoIP Announcer|r
-## Version: |cffFF45001.0.9|r
+## Version: |cffFF45001.0.10|r
 ## Author: |cffDA70D6LownIgnitus|r Mihkael@US-Alexstrasza
 ## X-Date: 30/08/2017
 ## Notes: Chat announcer for VoIP. Either Guild or Personal.
