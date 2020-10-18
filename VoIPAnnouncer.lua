@@ -1,4 +1,4 @@
--- VoIP Announcer v 1.0.11
+-- VoIP Announcer v 1.0.12
 
 VoIPsave = VoIPsave or "Test VoIP Info"
 local CF = CreateFrame
@@ -111,7 +111,7 @@ function vaOptionsInit()
 	desc:SetPoint("TOPLEFT", author, "BOTTOMLEFT", 0, -6)
 
 	-- Personal VoIP Set Frame
-	local vaPerVoipFrame = CF("Frame", "perVoipFrame", vaOptions)
+	local vaPerVoipFrame = CF("Frame", "perVoipFrame", vaOptions, "BackdropTemplate")
 	vaPerVoipFrame:SetPoint("TOPLEFT", desc, "BOTTOMLEFT", 0, -8)
 	vaPerVoipFrame:SetBackdrop(vaOptionsBG)
 	vaPerVoipFrame:SetSize(450, 250)
@@ -128,7 +128,7 @@ function vaOptionsInit()
 	perVoipDesc4:SetPoint("TOPLEFT", perVoipDesc3, "BOTTOMLEFT", 0, -2)
 
 	-- EditBox
-	local perVoipTextFrame = CF("Frame", "perVoipTextFrame", vaPerVoipFrame)
+	local perVoipTextFrame = CF("Frame", "perVoipTextFrame", vaPerVoipFrame, "BackdropTemplate")
 	perVoipTextFrame:SetSize(300, 70)
 	perVoipTextFrame:SetPoint("TOP", perVoipDesc4, "BOTTOM", -30, -20)
 	perVoipTextFrame:SetBackdrop(vaOptionsBG)
