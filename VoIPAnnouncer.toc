@@ -1,8 +1,9 @@
-## Interface: 90001
+## Interface: 90002
 ## Title: |cff00ff00VoIP Announcer|r
-## Version: |cffFF45001.0.13|r
+## X-Curse-Project-ID: 93790
+## Version: |cffFF45001.0.14|r
 ## Author: |cffDA70D6LownIgnitus|r Mihkael@US-Alexstrasza
-## X-Date: 17/10/2020
+## X-Date: 2021/02/05
 ## Notes: Chat announcer for VoIP. Either Guild or Personal.
 ## SavedVariablesPerCharacter: VoIPsave
 
